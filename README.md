@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @willats
 - 👀 I’m interested in Filemaker, pdfToolbox and Xojo
-- 🌱 I’m currently learning Xojo
+- 🌱 
 - 💞️ 
 - 📫 
 
